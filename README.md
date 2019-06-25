@@ -12,29 +12,47 @@ Steps:
 
 3/ Add dependencies the below dependencies
 <dependency>
+      
       <groupId>io.rest-assured</groupId>
+      
       <artifactId>rest-assured</artifactId>
+      
       <version>4.0.0</version>
+      
       <scope>test</scope>
+      
 </dependency>
 
 <dependency>
+      
       <groupId>io.rest-assured</groupId>
+      
       <artifactId>json-path</artifactId>
+      
       <version>4.0.0</version>
+      
 </dependency>
 
 <dependency>
+      
       <groupId>io.rest-assured</groupId>
+      
       <artifactId>xml-path</artifactId>
+      
       <version>4.0.0</version>
+      
 </dependency>
 
 <dependency>
+      
       <groupId>io.rest-assured</groupId>
+      
       <artifactId>json-schema-validator</artifactId>
+      
       <version>4.0.0</version>
+      
       <scope>test</scope>
+      
 </dependency>
 
 4/ Create junit or testng test; initiate get or post request with parameters and validate the body.
