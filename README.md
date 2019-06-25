@@ -1,9 +1,11 @@
 # restassured-demo
 
 Pre-requisite:
+
 MAVEN and JAVA should be installed with class path been set
 
 Steps:
+
 1/ Create a quick start maven project from your favourite IDE
 
 2/ Open pom.xml
